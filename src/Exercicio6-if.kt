@@ -36,25 +36,3 @@ fun main(args: Array<String>){
 
     sc.close()
 }
-
-/*
-    Solução mais eficaz e elegante, porém sai do propósito da lista de exercicios que é pra ser resolvida usando if
-
-fun main(args: Array<String>){
-    Locale.setDefault(Locale.US)
-    val sc = Scanner(System.`in`)
-    print("Digite um valor qualquer para verificar qual seu intervalo entre 0 e 100: ")
-    val valor = sc.nextDouble()
-
-    when{
-        valor < 0.0 || valor > 100.0 -> print("Valor fora de Intervalo")
-        valor <= 25.0 -> print("Intervalo (0,25)")
-        valor <= 50.0 -> print("Intervalo (25,50)")
-        valor <= 75.0 -> print("Intervalo (50,75)")
-        else -> print("Intervalo (75,100)")
-    }
-
-    sc.close()
-}
-
- */
