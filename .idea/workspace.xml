@@ -30,41 +30,41 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.Exercicio8_ifKt">
-    <configuration name="Exercicio4_ifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Exercicio3_whileKt">
+    <configuration name="Exercicio1_whileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Logica-if-while-for" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exercicio4_ifKt" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio1_whileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio5_ifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio2_whileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Logica-if-while-for" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exercicio5_ifKt" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio2_whileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6_ifKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio3_whileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Logica-if-while-for" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exercicio6_ifKt" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio3_whileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio3_whileKt" />
+        <item itemvalue="Kotlin.Exercicio2_whileKt" />
+        <item itemvalue="Kotlin.Exercicio1_whileKt" />
         <item itemvalue="Kotlin.Exercicio8_ifKt" />
         <item itemvalue="Kotlin.Exercicio7_ifKt" />
-        <item itemvalue="Kotlin.Exercicio6_ifKt" />
-        <item itemvalue="Kotlin.Exercicio5_ifKt" />
-        <item itemvalue="Kotlin.Exercicio4_ifKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,22 +124,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585162683875" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585613720306">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585620453366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585613720306" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585613720305">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585620453366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585620453366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585613720305" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585613720305">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585620453366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585620453366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585613720305" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585613720306">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585620453366" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585620453366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585613720306" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585620453366" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585592137517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
